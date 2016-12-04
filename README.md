@@ -1,5 +1,5 @@
 # Diretive
-"São uma maneira poderosa de criar componentes auto-contidos e interativos. Ao contrário do jQuery que adiciona a interatividade como uma camada em cima do HTML, AngularJS trata a interatividade como um componente nativo do HTML."
+"É uma maneira poderosa de criar componentes auto-contidos e interativos. Ao contrário do jQuery que adiciona a interatividade como uma camada em cima do HTML, AngularJS trata a interatividade como um componente nativo do HTML."
 
 ## Diretive (appInfo.js)
 Ensinamos um novo elemento ao browser (app-info) para usá-lo no ***index.html***.
